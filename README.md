@@ -11,3 +11,5 @@ To install the Uniswap Widget, simply add it to your project using NPM:
 Pull requests are welcome! To get started, clone the repository and run npm install to install the necessary dependencies. Then, run npm start to start the development server and npm test to run the test suite.
 
 Please make sure to follow the contribution guidelines when submitting pull requests.
+
+![ezgif-2-e934644eb0](https://github.com/shinobi8894/uniswap-widget/assets/56811611/3474e051-c3e9-41c1-b325-a46b3602c4d7)
